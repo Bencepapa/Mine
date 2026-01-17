@@ -11,4 +11,4 @@ I've experimented with the sourcode a lot, this blog ???link here??? helped to u
 - Made the rails more shiny
 - Tweaked here and there
 
-Try it out [here](bencepapa.github.io/mine)
+Try it out [here](https://bencepapa.github.io/Mine/)
